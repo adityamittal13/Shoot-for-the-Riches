@@ -1,2 +1,2 @@
 # ShootForTheRiches
-A first-person shooter game that awards money for killing AIs programmed to follow you.
+A first-person shooter game that awards money for killing AI robots programmed to follow you.
